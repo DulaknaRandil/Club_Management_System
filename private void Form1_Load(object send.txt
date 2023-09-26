@@ -1,0 +1,68 @@
+ private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+        int Dm, RAD, OS = 0;
+         int std = 50;
+        int[,] student = new int[50, 4];
+
+        private void btnInsert_Click(object sender, EventArgs e)
+        {
+            Insertmarks(Convert .ToInt32(textStuNo.Text), Convert.ToInt32(textDM.Text), Convert.ToInt32(textRAD.Text), Convert.ToInt32(textOS.Text));
+            textStuNo.Clear();
+            textDM.Clear();
+            textRAD.Clear();
+            textOS.Clear();
+        }
+
+        private void btnOverall_Click(object sender, EventArgs e)
+        {
+            CalcAvg();
+            int avgDm = Dm;//std;
+            int AvgRad = RAD;//std;
+            int AvgOS = OS;//std;
+            lblAvg.Text = "Discret Maths : " + avgDm + "  RAD : "+AvgRad+"  OS : "+ AvgOS;
+        }
+
+        void Insertmarks(int stuNo, int dm, int rad, int os)
+        {
+            int[] sub = { stuNo, dm, rad, os };
+            for (int i = 0; i < 50; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    student[i, j] = sub[j];
+                }
+            }
+        }
+        void CalcAvg()
+        {
+
+            for (int i = 0; i <50; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    if (j == 1)
+                    {
+                        Dm = Dm + student[i, j];
+                    }
+                    else if (j == 2)
+                    {
+                        RAD = RAD + student[i, j];
+                    }
+                    else if (j == 3)
+                    {
+                        OS = OS + student[i,j];
+                    }
+
+                  
+                    
+                  
+                }
+                Dm = Dm / 50;
+                RAD = RAD / 50;
+                OS = OS / 50;
+
+            }
+            
+        }

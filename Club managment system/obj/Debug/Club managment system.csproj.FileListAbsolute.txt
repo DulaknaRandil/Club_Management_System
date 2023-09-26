@@ -1,0 +1,63 @@
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\bin\Debug\Club managment system.exe.config
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\bin\Debug\Club managment system.exe
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\bin\Debug\Club managment system.pdb
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.AssemblyReference.cache
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.SuggestedBindingRedirects.cache
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Form1.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Properties.Resources.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.GenerateResource.cache
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.CoreCompileInputs.cache
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.exe
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club managment system.pdb
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.MemberRegister.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Fee.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Searchmember.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.individual.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.CheckList.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.termi.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Editmem.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.Rules.resources
+C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\obj\Debug\Club_managment_system.About.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\bin\Debug\Club managment system.exe.config
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\bin\Debug\Club managment system.exe
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\bin\Debug\Club managment system.pdb
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.AssemblyReference.cache
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.About.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.CheckList.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Editmem.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Fee.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Form1.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.individual.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.MemberRegister.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Properties.Resources.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Rules.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.Searchmember.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club_managment_system.termi.resources
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.GenerateResource.cache
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.csproj.CoreCompileInputs.cache
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.exe
+C:\Users\ANURADHA DILSHAN\Desktop\Club managment system\Club managment system\obj\Debug\Club managment system.pdb
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\bin\Debug\Club managment system.exe.config
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\bin\Debug\Club managment system.exe
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\bin\Debug\Club managment system.pdb
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.csproj.AssemblyReference.cache
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.csproj.SuggestedBindingRedirects.cache
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.About.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.CheckList.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.Editmem.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.Fee.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.Form1.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.individual.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.MemberRegister.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.Rules.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.Searchmember.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club_managment_system.termi.resources
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.csproj.GenerateResource.cache
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.csproj.CoreCompileInputs.cache
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.exe
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.pdb
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\bin\Debug\Club managment system.exe.manifest
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\bin\Debug\Club managment system.application
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.exe.manifest
+C:\Users\RANDIL DULAKNA\Desktop\RAD Final\Club managment system\obj\Debug\Club managment system.application

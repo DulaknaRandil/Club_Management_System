@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Club managment system, Configuration: Debug Any CPU ------
+1>  Club managment system -> C:\Users\RANDIL DULAKNA\source\repos\Club managment system\Club managment system\bin\Debug\Club managment system.exe
+2>  Club managment system -> C:\Users\ANURADHA DILSHAN\source\repos\Club managment system\Club managment system\bin\Debug\Club managment system.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.801 ==========
